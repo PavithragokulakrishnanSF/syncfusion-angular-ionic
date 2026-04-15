@@ -2,6 +2,9 @@
 
 This document helps you to create a simple Angular application with the `Ionic Framework` and including `Syncfusion Angular UI components` can be a great way to add functionality and a polished look to your app.
 
+## Repository Description
+This repository contains a sample Angular application built with the Ionic Framework that demonstrates how to integrate Syncfusion Angular UI components to create feature-rich and visually polished applications.
+
 ## Prerequisites
 
 * [System requirements for Syncfusion Angular UI components](https://ej2.syncfusion.com/angular/documentation/system-requirement)
